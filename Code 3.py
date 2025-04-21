@@ -6,7 +6,7 @@ def add_numbers(a, b):
     total = sum_result
     return result
 
-def addNumbers(x, y):
+def add_numbers(x, y):
     value = x + y
     return value
 
